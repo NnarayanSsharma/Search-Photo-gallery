@@ -9,7 +9,7 @@ function ImageSearch({searchText}) {
     return (
         <div className="image-search">
             <form onSubmit={onSubmit}>
-                <input type="text" onChange={e=>setText(e.target.value)} placeholder="Your last name.." />
+                <input type="text" onChange={e=>setText(e.target.value)} placeholder="Search..." />
                 <button type="submit">Search</button>
             </form>
         </div>
