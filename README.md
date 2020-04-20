@@ -1,4 +1,4 @@
-Project link: https://boring-hopper-3054fb.netlify.app/
+Project link: https://laughing-wright-7ddb7d.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
